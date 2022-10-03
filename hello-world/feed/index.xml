@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://marveloakssolicitors.co.uk/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://marveloakssolicitors.co.uk/hello-world/</link>
+	<atom:link href="https://marveloakssolicitors.co.uk/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://marveloakssolicitors.co.uk/hello-world/</link>
 	<description>Providing Solution to your Legal Matters</description>
 	<lastBuildDate>Thu, 16 Sep 2021 11:20:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>http://marveloakssolicitors.co.uk/hello-world/#comment-1</link>
+		<link>https://marveloakssolicitors.co.uk/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 16 Sep 2021 11:20:06 +0000</pubDate>
-		<guid isPermaLink="false">http://marveloakssolicitors.co.uk/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://marveloakssolicitors.co.uk/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
